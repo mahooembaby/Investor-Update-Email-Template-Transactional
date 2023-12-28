@@ -1,0 +1,90 @@
+<mjml>
+  <mj-body background-color="#e7e7e7">
+    <!-- Start First Section Text -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image align="left" src="https://i.ibb.co/dPbcj30/1667289753693-logo.png" width="30px"></mj-image>
+        <mj-text padding-top="25px" font-size="25px" text-transform="capitalize" font-weight="500">your update</mj-text>
+        <mj-text font-size="14px" line-height="18px" font-weight="500" text-transform="capitalize" padding-bottom="20px">hello arman!<br />this is your update for march 2022.</mj-text>
+        <mj-divider border-color="#2ec26c" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- End First Section Text -->
+    <!-- Start First Section Text -->
+    <mj-section background-color="#fff" padding-top="0">
+      <!-- Text Part -->
+      <mj-column>
+        <mj-text font-size="15px" line-height="20px" padding-top="20px">lorem ipsum dolor sit amet, consec tetur adip iscing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua. quis ipsum suspend isse ultrices gravida. risus commodo viverra dolore magn ali incid idunt ut labore.</mj-text>
+      </mj-column>
+      <!-- Image Part -->
+      <mj-column>
+        <mj-image href="#" padding-top="0" src="https://i.ibb.co/2M5LSk1/1667291534442-sd.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- End First Section Text -->
+    <!-- Start Data Show Section -->
+    <!-- Title Section -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text padding-top="20px" padding-bottom="20px" font-size="30px" text-transform="capitalize" font-weight="500">your growth in march</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Data Show Section -->
+    <mj-section background-color="#fff">
+      <!-- First Part -->
+      <mj-column border-right="1px solid #8f8f8f">
+        <mj-text align="center" color="#2ec26c" font-size="25px" font-weight="600">23,499</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="400" text-transform="capitalize">registration</mj-text>
+      </mj-column>
+      <!-- Second Part -->
+      <mj-column border-right="1px solid #8f8f8f">
+        <mj-text align="center" color="#2ec26c" font-size="25px" font-weight="600">+1499</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="400" text-transform="capitalize">active payers</mj-text>
+      </mj-column>
+      <!-- Third Part -->
+      <mj-column>
+        <mj-text align="center" color="#2ec26c" font-size="24px" font-weight="600">+1,239,000</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="400" text-transform="capitalize">email exported</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Data Show Section -->
+    <!-- Start Information Section -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="15px" font-weight="200" color="#000" line-height="20px">✅ Lorem ipsum dolor sits amet, consectetur.</mj-text>
+        <mj-text font-size="15px" font-weight="200" color="#000" line-height="20px">✅ Adipiscing elit, sed do eiusmod tempor us.</mj-text>
+        <mj-text font-size="15px" font-weight="200" color="#000" line-height="20px">✅ Incididunt ut labore et dolore magna ali.</mj-text>
+        <mj-text font-size="15px" font-weight="200" color="#000" line-height="20px">✅ Quis ipsum suspend isse ultrices gravida.</mj-text>
+        <mj-button align="left" padding-top="20px" width="50%" padding-bottom="60px" padding-left="30px" background-color="#2ec26c" font-size="16px" text-transform="capitalize" inner-padding="10px 5px" href="#">learn more</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- End Information Section -->
+    <!-- Start Footer Section -->
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" align="left" src="https://i.ibb.co/G3fQtyJ/made-logo.png" width="120px" padding-top="35px"></mj-image>
+        <mj-text color="#000" font-size="17px" font-weight="300" padding-bottom="5px">1(234) 456-7890</mj-text>
+        <mj-text color="#000" font-size="17px" font-weight="300" padding-bottom="15px">2261 Market street #4667 san francisco. CA 94114</mj-text>
+        <mj-text padding-bottom="10px">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/xzL7Q3D/facebook.png" style="width:30px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/hf2pPNg/twitter.png" style="width:30px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/Yj9m4DX/linkedin.png" style="width:30px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/WWhmmmk/instagram.png" style="width:30px;margin-right:5px" /></a>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" border="1px solid #000">
+      <mj-column>
+        <mj-text line-height="18px">no longer want to receive these emails? <a>Unsubscribe.</a></mj-text>
+        <mj-text padding-top="0">dream studio 604 peace portal. WA 99340</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Footer Section -->
+    <mj-section>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
